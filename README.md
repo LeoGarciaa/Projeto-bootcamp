@@ -1,20 +1,16 @@
-# proj-028
-
-> Status do Projeto: :alarm_clock: EM ANDAMENTO
-
+# Projeto BootCampo DIO
 ## Descrição
 
 Este é um projeto de uma API REST para o desafio Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway da DIO.
 
 ## Tecnologias utilizadas
 
-| Tecnologia         | Versão  |
-| ------------------ | ------- |
-| Java               | 17      |
-| Spring             | 3.1.4   |
-| H2 Database        | 2.1.214 |
-| Springdoc Open API | 2.2.0   |
-| Lombok             | 1.18.30 |
+| Tecnologia         |
+| Java 17            |
+| Spring 3.1.4       |
+| H2 Database 2.1.214|
+| Springdoc Open API |
+| Lombok 1.18.30     |
 
 ## Profiles
 
@@ -77,8 +73,3 @@ classDiagram
 ## Documentação Springdoc Open API 
 
 No browser acesse <http://localhost:8082/swagger-ui/index.html>
-
-## Licença
-
-The [MIT License]() (MIT)
-Copyright :copyright: 2023 - proj-028
